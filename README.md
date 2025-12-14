@@ -7,24 +7,35 @@ The Bank Management System is a Java-based application developed using Hibernate
 Technologies Used :
 
 1)Java (JDK 1.8)
+
 2)Hibernate (JPA)
+
 3)Spring Core
+
 4)Maven
+
 5)MySQL (or any relational database)
+
 6)Eclipse / IntelliJ IDEA
 
 Features :
 
 => CRUD operations using Hibernate ORM
+
 => Layered architecture (Entity, DAO, Service)
+
 => Spring Core for dependency injection
+
 => Clean and reusable code structure
 
 How to Run :
 
 => Clone the repository
+
 => Import as a Maven project
+
 => Configure database details in persistence.xml
+
 => Run the application using your IDE
 
 Conclusion :
